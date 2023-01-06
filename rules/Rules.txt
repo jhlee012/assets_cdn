@@ -1,7 +1,7 @@
 Krunker Korea | User Rules & Guidelines
 Official Rules & Guidelines Translation | https://rentry.co/krunker-korea-rules-english
 Official Invite Code | https://discord.gg/CMjXHQdZJ5
-Official Event Guide | https://cdn.jsdelivr.net/gh/jhlee012/assets_cdn@latest/rules/Events.txt
+Official Event Guide | https://cdn.jsdelivr.net/gh/jhlee012/assets_cdn/rules/Events.txt
 
 제 1조 (운영원칙)
 1. 이 이용약관은 서버의 원활한 운영과 신속한 처리를 위해 규정되었음.
